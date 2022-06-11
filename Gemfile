@@ -13,11 +13,15 @@ group :jekyll_plugins do
     gem 'jekyll-target-blank'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'mini_racer'
+#     gem 'mini_racer', '~> 0.6.2'
     gem 'unicode_utils'
     gem 'webrick'
+    gem 'nokogiri'
+    gem 'rack', '~> 2.0.1'
+    gem 'rspec'
 end
 group :other_plugins do
     gem 'httparty'
     gem 'feedjira'
 end
+
