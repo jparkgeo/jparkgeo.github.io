@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle: Postdoctoral Research Associate<br> <a href=https://cybergis.illinois.edu/>CyberGIS Center for Advanced Digital and Spatial Studies</a> <br> University of Illinois Urbana-Champaign
 
