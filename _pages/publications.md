@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 years: [unpublished, 2022, 2021, 2020, 2018, 2016]
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 For an up-to-date list and metrics see <a href="https://scholar.google.com/citations?user=nWiH4jsAAAAJ&hl=en&authuser=1" target="_blank" title="Google Scholar">Google Scholar  <i class="ai ai-google-scholar"></i></a>.
 
