@@ -6,7 +6,7 @@ subtitle: Assistant Professor <br> Department of Geography & Geographic Informat
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 230720-jinwoo-park-web.jpg
   image_circular: false # crops the image to make it circular
   address: >
 
