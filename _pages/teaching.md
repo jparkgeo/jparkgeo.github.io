@@ -8,13 +8,12 @@ nav_order: 3
 ---
 
 <h5>
-    GEOG474: Introduction to Geographic Information System
+    <a href="/assets/pdf/GEOG474_Fall2023.pdf">GEOG474: Introduction to Geographic Information Systems</a>
 </h5>
 <p>
     Instructor, Fall 2023, <br> 
     Department of Geography and GISc, <br>
     University of North Dakota <br> 
-    Link will be provided before the semester starts. <br>
 </p>
 
 <h5>
