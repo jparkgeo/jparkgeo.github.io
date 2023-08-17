@@ -2,11 +2,11 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Assistant Professor <br> Department of Geography & Geographic Information Science <br> University of North Dakota
+subtitle: <a href='https://und.edu/directory/jinwoo.park'>Assistant Professor</a> <br> <a href='https://arts-sciences.und.edu/academics/geography/index.html'> Department of Geography & Geographic Information Science </a> <br> University of North Dakota
 
 profile:
   align: right
-  image: 230720-jinwoo-park-web.jpg
+  image: 230720-jinwoo-park.jpg
   image_circular: false # crops the image to make it circular
   address: >
 
