@@ -8,10 +8,19 @@ nav_order: 3
 ---
 
 <h5>
-    <a href="/assets/pdf/GEOG474_Fall2023_Final_Modified.pdf">GEOG474: Introduction to Geographic Information Systems</a>
+    <a href="/assets/pdf/GEOG457_SP24.pdf">GEOG457: Urban Geography & Planning</a>
 </h5>
 <p>
-    Instructor, Fall 2023, <br> 
+    Instructor, Spring 2024, <br> 
+    Department of Geography and GISc, <br>
+    University of North Dakota <br> 
+</p>
+
+<h5>
+    <a href="/assets/pdf/GEOG474_SP24.pdf">GEOG474: Introduction to Geographic Information Systems</a>
+</h5>
+<p>
+    Instructor, Fall 2023, Spring 2024 <br> 
     Department of Geography and GISc, <br>
     University of North Dakota <br> 
 </p>
