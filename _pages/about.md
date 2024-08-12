@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://geo.khu.ac.kr/geo/user/bbs/BMSR00047/view.do'>Assistant Professor</a> <br> <a href='https://geo.khu.ac.kr/geo/user/main/view.do'> Department of Geography </a> <br> Kyung Hee University
+subtitle: <a href='https://geo.khu.ac.kr/sBbs/6DE56'>Assistant Professor</a> <br> <a href='https://geo.khu.ac.kr/geo/user/main/view.do'> Department of Geography </a> <br> Kyung Hee University
 
 profile:
   align: right
